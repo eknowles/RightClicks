@@ -1,0 +1,446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"rot",
+				"rotateZ"
+			],
+			[
+				"kn",
+				"knitsock"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"to",
+				"to"
+			],
+			[
+				"ni",
+				"nicenumber"
+			],
+			[
+				"b",
+				"basewidth"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"on",
+				"on_ratio"
+			],
+			[
+				"d",
+				"default_x"
+			],
+			[
+				"font",
+				"fontcolor"
+			],
+			[
+				"it",
+				"italicfont"
+			],
+			[
+				"new",
+				"newimg"
+			],
+			[
+				"B",
+				"Bitter-Regular"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"bod",
+				"bodyfinder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"stun",
+				"Snippet: Stunjelly-Dublin-Core-Credit"
+			],
+			[
+				"sutn",
+				"Snippet: Function"
+			],
+			[
+				"jell",
+				"Snippet: Stunjelly-Dublin-Core-Credit"
+			],
+			[
+				"snip",
+				"Snippet: Stunjelly-Dublin-Core-Credit"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/RightClicks/images-wh.pl",
+		"/C/RightClicks/fiximages.bat",
+		"/C/RightClicks/fiximages.pl",
+		"/C/RightClicks/epubfolder.bat",
+		"/C/RightClicks/epubchecknopuase.bat",
+		"/C/RightClicks/epubcheck.bat",
+		"/C/RightClicks/epubcheck.pl",
+		"/D/CLIENTS/Random House/Scripts/FLOP/Flop.py",
+		"/C/Users/Edward/Documents/GitHub/scripts/gimp-plugins/kindlefu2.py",
+		"/D/CLIENTS/Random House/Scripts/UpdatePlateNames.py",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DRa0.539/OEBPS/toc.ncx",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.199/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.537/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.565/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.717/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.773/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.608/package.opf",
+		"/C/Users/Edward/RightClicks/epubcheck.pl",
+		"/D/CLIENTS/Random House/_Tickets/Graphic Novels/1608 - Grandville Mon Amour/iPad/pagecreator.pl",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.404/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.679/package.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.725/package.opf",
+		"/C/Program Files/GIMP 2/lib/gimp/2.0/plug-ins/kindlefu2.py",
+		"/C/Users/Edward/RightClicks/imageslol.pl",
+		"/C/Users/Edward/Desktop/Doctor Who The Dalek Project/OEBPS/package.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.502/package.opf",
+		"/D/CLIENTS/Random House/_Tickets/EPUB/1599 - The Magic (Loveswept)/Garn_9780307798695_epub_cvi_r1.htm",
+		"/D/CLIENTS/Random House/_Tickets/Graphic Novels/1603 - Bagnold Summer/iPad/pagecreator.pl",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.911/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.829/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.449/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.140/content.opf",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/XML/Stunjelly-Dublin-Core-Credit.sublime-snippet",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.168/package.opf",
+		"/C/Users/Edward/AppData/Roaming/Sublime Text 2/Packages/User/Plain text.sublime-settings",
+		"/D/CLIENTS/Random House/_Tickets/Graphic Novels/1602 - Socks [iBooks & KF8]/iPad/pagecreator.pl",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.276/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.926/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.961/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.688/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.945/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.260/content.opf",
+		"/D/CLIENTS/Random House/nic/nic_merged/META-INF/container.xml",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.940/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.116/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.760/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.772/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.560/content.opf",
+		"/D/CLIENTS/Random House/_Tickets/Graphic Novels/1602 - Socks [iBooks & KF8]/iPad/working/Text/page6.xhtml",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.635/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.873/content.opf",
+		"/C/Users/Edward/Desktop/Untitled-1.html",
+		"/D/CLIENTS/Random House/_Tickets/Kindle/FMG - Books/OEBPS/page01.html",
+		"/D/CLIENTS/Random House/_Tickets/Kindle/FMG - Books/OEBPS/content.opf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.759/page004.smil",
+		"/C/wamp/www/Tree Fu Go/OEBPS/misc/page002.smil",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.331/page002.smil",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/1586 - Tree Fu Go/Nics/fixed/page003.smil",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/1586 - Tree Fu Go/Nics/fixed/page002.smil",
+		"/D/CLIENTS/Milne/makesmil.py",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/1586 - Tree Fu Go/Nics/bak/page001.smil",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/1586 - Tree Fu Go/Nics/fixed/page013.smil.html",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/1586 - Tree Fu Go/Nics/fixed/page008.smil.html",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/1586 - Tree Fu Go/Nics/OEBPS/misc/page014.smil",
+		"/D/CLIENTS/Random House/_Tickets/EPUB/1592 - The Good Pub Guide 2013/give-pubs-unique-ids.py",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/1586 - Tree Fu Go/Nics/OEBPS/pages/page015.xhtml",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/1586 - Tree Fu Go/Nics/OEBPS/pages/page014.xhtml",
+		"/C/Users/Edward/.gimp-2.8/pluginrc",
+		"/C/Users/Edward/Desktop/Testing/page5.xcf",
+		"/C/Users/Edward/Desktop/labels-page015.xhtml",
+		"/D/CLIENTS/Random House/Scripts/random epub jobs/straightquotestocurly.py",
+		"/D/CLIENTS/Random House/Scripts/random epub jobs/page-id-changer.py",
+		"/D/CLIENTS/Random House/Scripts/random epub jobs/chapternameplusdate.py",
+		"/D/CLIENTS/Random House/Scripts/random epub jobs/EPUB-ID-FINDER.py",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/1586 - Tree Fu Go/AUDIOTAGGING/readalongp1.py",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/1586 - Tree Fu Go/AUDIOTAGGING/epub.py",
+		"/D/CLIENTS/Milne/readalongp1.py",
+		"/C/wamp/www/Tree Fu Go/OEBPS/misc/page005.smil",
+		"/C/wamp/www/Tree Fu Go/OEBPS/misc/page022.smil",
+		"/C/wamp/www/Tree Fu Go/OEBPS/misc/page004.smil",
+		"/C/wamp/www/Tree Fu Go/OEBPS/pages/page004.xhtml",
+		"/C/wamp/www/Tree Fu Go/OEBPS/pages/page005.xhtml",
+		"/C/wamp/www/Tree Fu Go/OEBPS/pages/page023.xhtml",
+		"/C/wamp/www/Tree Fu Go/OEBPS/pages/page022.xhtml",
+		"/C/wamp/www/Tree Fu Go/OEBPS/pages/page021.xhtml",
+		"/C/wamp/www/Tree Fu Go/OEBPS/pages/page020.xhtml",
+		"/C/wamp/www/Tree Fu Go/OEBPS/package.opf",
+		"/C/wamp/www/Tree Fu Go/OEBPS/pages/page015.xhtml",
+		"/C/wamp/www/Tree Fu Go/OEBPS/styles/style.css",
+		"/C/wamp/www/Tree Fu Go/OEBPS/pages/page001.xhtml",
+		"/C/wamp/www/Tree Fu Go/OEBPS/pages/page008.xhtml",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/_ARCHIVE/_PARKERS/parker/Payload/iBooks.app/en_GB.lproj/DefaultDictionaries.plist",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/_ARCHIVE/_PARKERS/parker/Payload/iBooks.app/en_GB.lproj/Thunderfish.strings",
+		"/D/torrents/-= Music =-/ADOBE.CS6.0.MASTER.COLLECTION.WIN.OSX.KEYGEN-XFORCE/Crack-Windows/install.txt",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/_ARCHIVE/_PARKERS/parker/Payload/iBooks.app/UserDataManager.mom",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/_ARCHIVE/_PARKERS/parker/Payload/iBooks.app/THSoftwareLicenseAgreementViewController.nib",
+		"/C/wamp/www/Advanced Editor/chrome-app-samples-master/text-editor/editor.html",
+		"/C/wamp/www/Advanced Editor/chrome-app-samples-master/text-editor/background.js",
+		"/C/wamp/www/Advanced Editor/chrome-app-samples-master/identity/identity.js",
+		"/C/wamp/www/Advanced Editor/chrome-app-samples-master/identity/main.js",
+		"/C/wamp/www/Advanced Editor/chrome-app-samples-master/identity/manifest.json",
+		"/D/CLIENTS/Random House/Scripts/random epub jobs/ImageResizer.py",
+		"/C/wamp/www/Advanced Editor/chrome-app-samples-master/text-editor/editor.js",
+		"/C/wamp/www/Advanced Editor/chrome-app-samples-master/text-editor/manifest.json",
+		"/C/wamp/www/fixed-layout-app/manifest.json",
+		"/C/Python27/Lib/site-packages/django/bin/django-admin.py",
+		"/C/Users/Edward/Desktop/HourGuard-Backup-2012-11-06/Tasks/17.dat",
+		"/C/wamp/www/.htaccess",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/_PARKERS/parker/Payload/iBooks.app/theme_stylesheet.css.tmpl",
+		"/D/CLIENTS/Random House/_Tickets/iBooks/_PARKERS/parker/Payload/iBooks.app/itspubkey.der",
+		"/C/wamp/pwds/.htpasswd",
+		"/C/wamp/www/js/Helvetica_Neue_400-Helvetica_Neue_700.font.js",
+		"/C/wamp/www/parkers.xhtml",
+		"/C/wamp/www/backofthenet.xhtml",
+		"/C/wamp/www/working/Text/page0.xhtml",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/CLIENTS/Random House/www/.htaccess",
+		"/C/wamp/alias/randomhouse.conf",
+		"/C/Users/Edward/AppData/Local/Temp/Rar$DIa0.345/README",
+		"/C/wamp/fancyindexer-0.2/README",
+		"/C/wamp/www/testmysql.php",
+		"/D/CLIENTS/Random House/www/parkers.php",
+		"/C/wamp/bin/apache/apache2.2.22/conf/extra/httpd-autoindex.conf",
+		"/D/CLIENTS/Random House/_Tickets/EPUB/1574 - Bravo Two Zero/plates.htm",
+		"/C/wamp/www/parker/Payload/iBooks.app/footnote.xhtml",
+		"/D/CLIENTS/Milne/sjra-working/page45.xhtml",
+		"/D/CLIENTS/Milne/sjra-working/page61.xhtml",
+		"/D/CLIENTS/Milne/working/Text/page45.xhtml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"working",
+			"<br />",
+			"\n    <br />",
+			"page0",
+			"print	",
+			"print",
+			"prin",
+			"pimgOffsetY				",
+			"\n",
+			"20",
+			"pages",
+			"xhtml",
+			"\"",
+			"\\",
+			"/nic/Desktop/Ebo",
+			"/home",
+			", 'target'",
+			"python",
+			"colh2 id",
+			"Old Bulls Head",
+			"Llanover",
+			"Muddiford",
+			" o",
+			"\n",
+			"Text",
+			"[]\n",
+			"{TITS}",
+			"page([0-9]+)\\.xhtml",
+			"page([0-9]?[0-9]?[0-9])\\.xhtml",
+			"page([0-9]?[0-9]?[0-9]).xhtml",
+			"page001.xhtml",
+			"xhtml",
+			"\"/>\n",
+			"texteditor",
+			"<div class=\"sjholder\">",
+			"jpg",
+			"</div>\n",
+			"full_page_flicker",
+			"paltno-bold",
+			";}\n",
+			" opacity: 1;",
+			"rocketLight",
+			"Fixed Layout",
+			"FIXED LAYOUT",
+			"Fixed Layout",
+			"	 ",
+			"Fixed Layout",
+			"	 ",
+			"d.jpg\"",
+			"c.jpg\"",
+			"b.jpg\"",
+			"a.jpg",
+			"Image Missing",
+			"hsize",
+			"basewidth",
+			"\n",
+			"basewidth",
+			"\n",
+			"\n<",
+			"\n",
+			"<",
+			"<p",
+			">\n",
+			"\n<",
+			"\n",
+			"0106",
+			"portrait",
+			"<\\/body>([\\s\\S]*?)<body>",
+			"<body>",
+			"<heading>",
+			"    for pewpew in re.finditer(pagereffinder, body.group(1)):\n        if pewpew.group(1):\n            print pewpew.group(0) "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 274.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true
+}
